@@ -13,7 +13,7 @@ The basest components of your body, left to their own devices, fluctuate so wild
 even be said whether they exist at a given spacetime coordinate. In fact, until the point that we
 *retroactively* impose existence onto those pieces, they both exist and don't exist-- everywhere! Of
 course the "weight" of their existence is considerably higher in certain portions of space. And that
-imbalance is the foundation of the poorly named atom. Hindsight is 20/20 though right? (We'll come
+imbalance is the foundation of they poorly named atom. Hindsight is 20/20 though right? (We'll come
 back to that later.)
 
 So lets look at these atoms. They're nice little packages. They have just the right pattern to
@@ -26,8 +26,8 @@ they seem to radiate some kind of "existence" field. By virtue of an atom's bein
 location the existence weight of the space around the atom is higher. Over time, disparate atoms
 begin coalescing in common locations simply because it's easier for them to exist in those
 spots. And the more atoms collect, the easier it gets. Until eventually there is so much in one
-place that atom patterns are being forced into each other for lack of anywhere else to go. We call
-these collections "stars".
+place that atom patterns are being forced into each other for lack of anywhere else to go. That is a
+star.
 
 Some of these new patterns stick. Like the patterns they came from, they feedback into themselves
 and are stable. If they manage to escape being shredded by the chaos that created them and leave the
@@ -37,22 +37,49 @@ molecules. It's not as serious as becoming a new atom, so a lot less force is re
 result it tends to happen a lot more often.
 
 Now these molecules have an even greater diversity of shape, and they too combine with one another,
-creating ever more numerous and complex patterns. This may be as far as you get, and frankly it's
-pretty far. Already we have reached a level where the whole prospect of degrees of existence seems
-nonsensical. This is a whole new plane of reality! The levels below it are still real, of course,
-but they have almost no direct bearing on the higher abstractions. Remember that the higher levels
-exist because it is the very nature of the levels below them to permit it.
+creating ever more numerous and complex patterns. This is the end of the story the vast majority of
+the time. And it's not a bad one! Already we have reached a level where the whole prospect of
+degrees of existence seems nonsensical. This is a whole new plane of reality! The levels below it
+are still real, of course, but they do not directly dictate the behavior of the higher
+abstractions. Of course the higher levels are an extension of the lower, but we don't worry about
+whether whole molecules exist or not. Remember that they exist because it is the nature of their
+organization to permit it.
 
-?? Maybe extend this up to cell life before wrapping up? I would like to get to consciousness... but
-let's not bore the audience too much...
+So what about the unimaginably small portion of those molecules which keep grouping? Now they're
+taking on real shapes, which can actually be said to "fit" together in the sense that it's commonly
+understood. Wildly different kinds of these shapes, barely recognizable as related come togther
+forming larger, more interesting and distinct shapes. Suddenly we're at a level where they can do
+something which was impossible before: self-replicate. While the pieces of the levels below them
+effectively identical, they were always formed by external forces. But far enough along the
+abstraction chain, sufficient complexity is acquired to allow for meta-patterns. Organizations which
+contain within themselves their own organization, but in a different encoding. 
 
-So here we are, lots of molecules. Though this does seem to be the end of the story almost
-everywhere, it is clearly not the end here. I'm going to fast forward a bit though; you guys have
-probably already figured out where this is going. The importance of this, however, is to illustrate
-how the evolutionary process-- arbitrarily making a change and seeing if it sticks-- underlies the
-fundamentals of what we commonly think of as evolution.
+Early examples of this, such as RNA, are very closely tied to their meta-pattern. The full physical
+structure essentially serves both roles as pattern and meta-pattern. It's analogous to a simple
+Quine which does no more than read and copy itself. But as the complexity continues to increase, so
+does the capacity for ever-subtler meta-patterns. Taking the RNA, or DNA as the case may now be, and
+putting it in a very controlled environment, with a well-defined structure and set of proteins and
+chemicals to interact with, significantly narrows the possible decodings. The density of the data
+contained can be so much higher, and as a result many many more systems can be described.
 
 
+
+...and when the ideas reach a critical mass in your mind, like the fiery inferno within a star, they
+will push together and tear apart. You will feel confused. You will feel frustrated, perhaps even
+angry at your inability to comprehend your own thoughts. And that is an excellent time to do
+something else. Don't force yourself to think about it anymore. Read an easy novel, or play some
+music. Take a walk, go for a run, do some gardening, cook a meal. If you're tired, sleep! The point
+now is to rest. But not to shutdown. Don't zone out for hours in front of the TV, or lay in bed
+nursing your frustration. Light activity will keep your mind working in the background. And then
+suddenly, hours, days, maybe weeks later, you'll think about it again. An idea will come to you from
+nowhere. It has escaped the star, and is ready to begin its life as the foundation of real
+understanding.
+
+Of course, you're going to need a lot more than that one atom. And this process will happen over and
+over, but as the number of more complex building blocks grows you will find it takes a lot less
+energy to piece them together. They don't require nuclear mind fusion to form... they just need
+enough time to interact until they find a way to fit togther. Or perhaps they'll drift apart to some
+other ideas which may be more compatible.
 
 
 * As we move up in level, the objects become more static while they become more complex
