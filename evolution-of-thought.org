@@ -33,7 +33,7 @@ and are stable. If they manage to escape being shredded by the chaos that create
 star, those new elements continue playing this game. Now there are enough differently shaped atoms
 around that as they continue their aimless roaming, some of them might stick together, making
 molecules. It's not as serious as becoming a new atom, so a lot less force is required and as a
-result it tends to happen a lot more often.
+result it tends to happen a lot more easily.
 
 Now these molecules have an even greater diversity of shape, and they too combine with one another,
 creating ever more numerous and complex patterns. This is the end of the story the vast majority of
@@ -145,6 +145,34 @@ or not is a retroactive judgment. You may find that you've ended up on a totally
 track. Does that mean you did it wrong? You certainly didn't meet your initial criteria. But like
 the rest of the process, the criteria will evolve too. Picking something to work towards is a good
 motivator, but don't be pedantic about it.
+
+"Okay, so maybe this makes sense. But what about that bit about ignoring more experienced
+programmers? What are you talking about?"
+
+Ah, right.
+
+People with more experience, if they have focused that experience on progressing, will often be
+talking from a higher level of understanding than you currently have. This leaves you in the
+uncomfortable position of having to accept what they say without really knowing why. That's OK. It's
+essentially the same process as the indiscriminate information gathering. But it has one
+caveat... it comes with a judgment built-in. Unlike when you're just pulling in information to
+distill, this information comes from someone you know and (hopefully) trust, so it becomes Truth. At
+least until you've tested its limits.
+
+When the advice is specific, it's works much like any other piece of information. Someone once told
+me "index your database tables!" So I did. But in my mind indexes were something that made queries
+faster. I wasn't thinking of left-to-right evaluation, or even how the overhead of indexing affects
+smaller datasets. Still, the advice was useful, and had I been told those extra caveats, I would
+almost definitely have applied them in cases where they weren't necessary.
+
+But when it's something more abstract, something which you really can't learn except through
+experience, it is more difficult to grasp. The best example I have of this is Clojure
+macros. Everyone always says "don't use macros unless you have no other option." I had heard it time
+and time again, but I just couldn't resist! They're so useful! And they can also be devastatingly
+hard to write, let alone deciphert. But that's just something I had to find out for myself. And all
+of those guys who warned me, they did the same thing.
+
+You'll figure it out.
 
 
 * As we move up in level, the objects become more static while they become more complex
