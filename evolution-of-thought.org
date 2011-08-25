@@ -13,8 +13,7 @@ The basest components of your body, left to their own devices, fluctuate so wild
 even be said whether they exist at a given spacetime coordinate. In fact, until the point that we
 *retroactively* impose existence onto those pieces, they both exist and don't exist-- everywhere! Of
 course the "weight" of their existence is considerably higher in certain portions of space. And that
-imbalance is the foundation of they poorly named atom. Hindsight is 20/20 though right? (We'll come
-back to that later.)
+imbalance is the foundation of the atom.
 
 So lets look at these atoms. They're nice little packages. They have just the right pattern to
 persist their own existence. All their parts create a feedback cycle which ensures that each part
@@ -101,8 +100,8 @@ understanding.
 Of course, you're going to need a lot more than that one atom. And this process will happen over and
 over, but as the number of more complex building blocks grows you will find it takes a lot less
 energy to piece them together. They don't require nuclear mind fusion to form... they just need
-enough time to interact until they find a way to fit togther. Or perhaps they'll drift apart to some
-other ideas which may be more compatible.
+enough time to interact until they find a way to fit. Or perhaps they'll drift apart to some other
+ideas which may be more compatible.
 
 This is not an easy process. There will be many false starts, and, more discouraging, promising
 leads which may end up being inert-- dead ends. Or ideas which prove to be unstable, thriving in
@@ -113,6 +112,39 @@ having them in your toolbelt, they will find their own applications when the tim
 
 So what does it have to do with getting shit done; with just going out and "doing it" rather than
 worrying about "doing it right"?
+
+The entire process I've described is, in essence, "doing". The paths you follow which don't help you
+towards your goal will far outweigh those which do. The vast majority of everything you do will be
+wrong. And if it isn't, you got lucky. Being right before you've been wrong is a fluke, and it
+probably won't last. You may have correctly guessed the first three steps, but then you'll be lost
+and will have to backtrack to figure out the fourth. Trying to figure something out, beginning to
+end, in one shot is like taking a bunch of protons, neutrons, and electrons and building a cat.
+
+Don't be fooled by mythology. I'm not talking about stories involving Zeus and beastiality; I'm
+talking about stories of modern heroes-- about biographies of Einstein, Wittgenstein, John Nash,
+Beethoven, Feynmann, Carl Sagan, whoever you like. They're fun to read, but don't take them to
+heart. (Except "Surely You're Joking Mr. Feynman." That's an encouraging read.) The stories almost
+all focus on results, with perhaps a cursory description of the process. But no matter how true an
+author tries to be to the reality of it, it is impossible to relate the enormous amounts of time and
+effort put into working out their ideas. And, except for lofty dead-ends, they don't (and, in
+fairness, can't) focus on the endless cycle of being wrong. (An exception here is "A Beautiful
+Mind", which, though a bit heavy on the "you're a lot dumber than John Nash" vibe, did make a point
+to discuss the endless stream of totally incorrect proofs he would barrage his associates with while
+he powered towards his goal.)
+
+It can also be very difficult to pick up on how much help they had from the people around them and
+the environment they lived in. Even the most antisocial among them were still surrounded by people
+to bounce ideas off of and hear ideas from. And they all worked (for at least some of their lives)
+either in academia or as professional researchers, where they could aborb new information at their
+leisure. I'm not saying these folks don't have an edge in raw brainpower, but that can only get you
+so far. The real key is hard work. And most of that is getting shot down by your friends and
+colleagues.
+
+The way to "do it right" is to just keep going until you get there. Moreover, whether it's "right"
+or not is a retroactive judgment. You may find that you've ended up on a totally different
+track. Does that mean you did it wrong? You certainly didn't meet your initial criteria. But like
+the rest of the process, the criteria will evolve too. Picking something to work towards is a good
+motivator, but don't be pedantic about it.
 
 
 * As we move up in level, the objects become more static while they become more complex
